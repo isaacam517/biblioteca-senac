@@ -1,0 +1,106 @@
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
