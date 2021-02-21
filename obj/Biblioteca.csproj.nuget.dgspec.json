@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repositorios\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\isaac\\Downloads\\Reenvio Atividade1\\biblioteca-senac\\Biblioteca.csproj": {}
   },
   "projects": {
-    "D:\\repositorios\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\isaac\\Downloads\\Reenvio Atividade1\\biblioteca-senac\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repositorios\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\isaac\\Downloads\\Reenvio Atividade1\\biblioteca-senac\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\repositorios\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\isaac\\Downloads\\Reenvio Atividade1\\biblioteca-senac\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "D:\\repositorios\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\isaac\\Downloads\\Reenvio Atividade1\\biblioteca-senac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config"

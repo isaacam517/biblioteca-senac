@@ -22,6 +22,7 @@ namespace Biblioteca.Controllers
         public IActionResult Index()
         {
             Autenticacao.CheckLogin(this);
+            ViewData["mensagem"] = "Seja bem vindo! 'Mantenha o cadastro sempre Atualizado!'";
             return View();
         }
 
@@ -33,15 +34,15 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Login(string login, string senha)
         {
-            if(login != "admin" || senha != "123")
+            //Foi adicionado vericação de login mostrando mensagem de erro no caso de senha errada
+            if(Autenticacao.verificarLoginSenha(login,senha,this))
             {
-                ViewData["Erro"] = "Senha inválida";
-                return View();
+                return RedirectToAction("Index");
             }
             else
             {
-                HttpContext.Session.SetString("user", "admin");
-                return RedirectToAction("Index");
+                ViewData["Erro"] = "Senha inválida - Digite a senha correta!";
+                return View();
             }
         }
 

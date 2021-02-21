@@ -1,0 +1,39 @@
+@model List<Usuario>
+
+<h1>Usuários Cadastrados</h1>
+
+<p class="text-danger">
+    @ViewData["mensagem"]
+</p>
+
+<table class="table table-success table-striped">
+    <thead>
+        <tr>
+            <th scope="row">Nome</th>
+            <th scope="row">Login</th>
+            <th scope="row">Tipo</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Usuario u in Model)
+        {<tr>
+            <td>@u.Nome</td>
+            <td>@u.login</td>
+            @if(u.tipo==Usuario.ADMIN)
+            {
+                <td>Administrador</td>
+            }
+            else
+            {
+                <td>Padrão</td>
+            }
+        <td><a href="editarUsuario?id=@u.Id">EDITAR</a></td>
+        <td><a href="ExcluirUsuario?id=@u.Id">EXCLUIR</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<a class="mt-5" href="RegistrarUsuarios">Fazer um novo Registro de Usuário</a>

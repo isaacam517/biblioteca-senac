@@ -51,56 +51,180 @@ D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug
 D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 D:\VS Code Projects\net-core-projects\Biblioteca\netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
-D:\repositorios\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
-D:\repositorios\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\Jefferson\Documents\SENAC_UC7\ATIVIDADE_2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\isaac\Downloads\Nova pasta\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\isaac\Downloads\Reenvio Atividade1\biblioteca-senac\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

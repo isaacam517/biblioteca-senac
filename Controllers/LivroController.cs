@@ -1,3 +1,4 @@
+using System;
 using Biblioteca.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,6 +15,9 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Cadastro(Livro l)
         {
+            //Torna obrigatorio o preenchimento de todos os campos
+            if(!string.IsNullOrEmpty(l.Titulo) && !string.IsNullOrEmpty(l.Autor) && l.Ano!=0)
+            {
             LivroService livroService = new LivroService();
 
             if(l.Id == 0)
@@ -26,9 +30,15 @@ namespace Biblioteca.Controllers
             }
 
             return RedirectToAction("Listagem");
+            }
+            else{
+                ViewData["mensagem"]="Preencha todos os campos";
+                return View();
+            }
         }
 
-        public IActionResult Listagem(string tipoFiltro, string filtro)
+        //Adicionado Paginas na parte de listagem de livros
+        public IActionResult Listagem(string tipoFiltro, string filtro, string itensPorPagina, int NumDaPagina, int PaginaAtual)
         {
             Autenticacao.CheckLogin(this);
             FiltrosLivros objFiltro = null;
@@ -38,6 +48,9 @@ namespace Biblioteca.Controllers
                 objFiltro.Filtro = filtro;
                 objFiltro.TipoFiltro = tipoFiltro;
             }
+                ViewData["livrosPorPagina"] = (string.IsNullOrEmpty(itensPorPagina) ? 10 : Int32.Parse(itensPorPagina));
+                ViewData["PaginaAtual"] = (PaginaAtual !=0 ? PaginaAtual : 1);
+
             LivroService livroService = new LivroService();
             return View(livroService.ListarTodos(objFiltro));
         }
@@ -48,6 +61,11 @@ namespace Biblioteca.Controllers
             LivroService ls = new LivroService();
             Livro l = ls.ObterPorId(id);
             return View(l);
+        }
+
+        public IActionResult ExcluirLivro(int id)
+        {
+            return RedirectToAction("Listagem");
         }
     }
 }
